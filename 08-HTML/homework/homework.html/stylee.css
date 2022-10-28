@@ -1,0 +1,52 @@
+h1 {
+    color: lightgreen;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 50px;
+    border-color: black;
+}
+
+#spanId {
+    font-size: 18px;
+    
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url("https://itv.es/icemakers/wp-content/uploads/2016/06/antarttt.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1920px 1080px;
+    
+}
+
+a{
+    color: rgb(243, 0, 12);
+}
+
+
+

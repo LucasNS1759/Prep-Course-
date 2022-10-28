@@ -1,0 +1,64 @@
+
+h1,h2,h4{
+    color: white;
+    background-color: rgb(48, 5, 88);
+    display: flex;
+    justify-content: center;
+}
+h3{
+color: black;
+display: flex;
+justify-content: center;
+background-color: hsl(0, 43%, 90%);
+}
+
+img{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+body{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}
+.div1{
+    background-color: rgb(8, 8, 131);
+    position: absolute;
+    top: 100%;
+    right: auto;
+  transform: translate(0%, 0%);
+  display: flexbox;
+  justify-content: left;
+  width: 350px;
+    
+    
+}
+ul{
+    color: white;
+}
+
+.listaHobbies,ol{
+    color: blue;
+}
+dt{
+    color: black;
+}
+.div2{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 100%;
+    left: auto;
+  transform: translate(100%, 0%);
+  display: flexbox;
+  justify-content: right;
+  width: 350px;
+    
+    
+}
+.divimg{
+    display: flex;
+    justify-content: center;
+}
